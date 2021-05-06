@@ -1,0 +1,126 @@
+2021-05-06 12:41:36 ERROR DataConvertor:71 - You should have 2 args!
+2021-05-06 13:04:28 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:04:28 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:04:28 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:04:28 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:04:28 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:04:28 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:04:40 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:04:40 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:04:40 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:04:40 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:04:40 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:04:40 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:09:38 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:09:39 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:09:39 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:09:39 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:09:39 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:09:39 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:13:50 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:13:50 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:13:50 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:13:50 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:13:50 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:13:50 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:15:49 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:15:49 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:15:49 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:15:49 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:15:49 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:15:49 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:16:34 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:16:34 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:16:34 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:16:34 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:16:34 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:16:34 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:18:53 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:18:54 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:18:54 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:18:54 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:18:54 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:18:54 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:19:10 ERROR DataConvertor:71 - You should have 2 args!
+2021-05-06 13:21:42 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:21:43 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:21:43 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:21:43 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:21:43 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:21:43 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:22:45 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:22:45 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:22:45 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:22:45 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:22:45 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:22:45 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:25:11 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:25:11 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:25:11 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:25:11 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:25:11 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:25:11 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:26:09 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:26:09 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:26:09 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:26:10 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:26:10 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:26:10 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:29:01 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:29:01 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:29:01 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:29:01 ERROR SaxReader:34 - 
+2021-05-06 13:29:01 ERROR SaxReader:34 - 
+2021-05-06 13:29:01 ERROR SaxReader:34 - 
+2021-05-06 13:29:01 ERROR SaxReader:34 - 
+2021-05-06 13:29:01 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:29:01 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:29:01 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:30:51 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:30:51 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:30:51 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:30:51 ERROR SaxReader:34 - 
+2021-05-06 13:30:51 ERROR SaxReader:34 - 
+2021-05-06 13:30:51 ERROR SaxReader:34 - 
+2021-05-06 13:30:51 ERROR SaxReader:34 - 
+2021-05-06 13:30:51 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:30:51 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:30:51 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:31:21 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:31:21 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:31:21 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:31:21 ERROR SaxReader:34 - 
+2021-05-06 13:31:21 ERROR SaxReader:34 - 
+2021-05-06 13:31:21 ERROR SaxReader:34 - 
+2021-05-06 13:31:21 ERROR SaxReader:34 - 
+2021-05-06 13:31:21 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:31:21 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:31:21 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:33:09 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:33:09 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:33:09 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:33:09 ERROR SaxReader:28 - 
+2021-05-06 13:33:09 ERROR SaxReader:28 - 
+2021-05-06 13:33:09 ERROR SaxReader:28 - 
+2021-05-06 13:33:09 ERROR SaxReader:28 - 
+2021-05-06 13:33:09 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:33:09 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:33:09 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:35:22 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:35:22 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:35:22 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:35:22 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:35:22 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:35:22 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:47:23 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:47:24 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:47:24 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:47:24 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:47:24 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:47:24 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"
+2021-05-06 13:50:50 ERROR CsvReader:91 - src/test/resources/not.csv: file not found!
+2021-05-06 13:50:50 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:50:50 ERROR ValidationUtils:40 - Unparseable date: "1800.05.05"
+2021-05-06 13:50:50 ERROR ValidationUtils:40 - Unparseable date: "2020.02.27"
+2021-05-06 13:50:50 ERROR ValidationUtils:40 - Unparseable date: "2019-02-29"
+2021-05-06 13:50:50 ERROR ValidationUtils:40 - Unparseable date: "2020-15-27"

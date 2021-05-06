@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<persons>
+  <person id="1">
+    <Name>
+      <FirstName>Leha</FirstName>
+      <LastName>Dark</LastName>
+    </Name>
+    <Birthday date="2001-01-05"/>
+    <Comment>cool</Comment>
+  </person>
+</persons>
